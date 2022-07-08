@@ -2,7 +2,7 @@
 
 ---
 
-# 목차    
+# 0. 목차    
 
 ​    
 
@@ -22,13 +22,13 @@
 
     
 
-4. [총평 ](#4-총평)   
+4. [총평 ](#4-총평)    
 
-    
+​    
 
-    
+​    
 
-    
+​    
 
 # 1. 선택한 개발 직군의 종류    
 
@@ -40,11 +40,11 @@
 
 - 프론트엔드    
 
-    
+​    
 
 - 백엔드    
 
-    
+​    
 
 ---
 
@@ -56,27 +56,25 @@
 
 - 지역 : 서울    
 
-    
+  ​    
 
-- 경력 : 신입    
+- 경력 : 신입     
 
-    
+  ​    
 
-- 연봉 : 무관    
+- 연봉 : 무관     
 
-    
+  ​    
 
 - 보유 기술스택 :     
 
-   
+  ​     
 
-![Windows_10](research.assets/Windows_10_Logo.svg.png) ![Python3](research.assets/python-logo-master-v3-TM.png) ![Django](research.assets/django-logo-negative.png) ![VSC](research.assets/pngwing.com.png) ![git](research.assets/Git-Icon-1788C.png) ![github](research.assets/GitHub-Mark-62px.png)
-
-​    
+![Windows_10](research.assets/Windows_10_Logo.svg.png) ![Python3](research.assets/python-logo-master-v3-TM.png) ![Django](research.assets/django-logo-negative.png) ![VSC](research.assets/pngwing.com.png) ![git](research.assets/Git-Icon-1788C.png) ![github](research.assets/GitHub-Mark-62px.png)    
 
 ​    
 
-[목차로 가기](#목차)
+[목차로 가기](#0-목차)
 
 # 2. 정보를 찾은 사이트    
 
@@ -86,30 +84,31 @@
 
 ​    
 
-- 글자를 누르면 해당 문서 페이지로 이동합니다.    
+- 글자를 누르면 해당 문서 페이지로 이동합니다.     
 
-    
+  ​     
 
 - [원티드](#원티드-공고) : https://www.wanted.co.kr/
+
 - [로켓펀치](#로켓펀치-공고) : https://www.rocketpunch.com/
+
 - [점핏](#점핏-공고) : https://www.jumpit.co.kr/
+
 - [자소설닷컴](#자소설닷컴-공고) : https://jasoseol.com/
+
 - [사람인](#사람인-공고) : https://www.saramin.co.kr
-- [잡코리아](#잡코리아-공고) : https://www.jobkorea.co.kr
 
-    
+- [잡코리아](#잡코리아-공고) : https://www.jobkorea.co.kr    
 
-    
+​    
 
-    
+​    
+
+​    
+
+[목차로 가기](#0-목차)
 
 ---
-
-​    
-
-​    
-
-[목차로 가기](#목차)
 
 ### 원티드 공고    
 
@@ -183,7 +182,9 @@
 
     ​    
 
-[목차로 가기](#목차)
+[목차로 가기](#0-목차)
+
+---
 
 ### 로켓펀치 공고     
 
@@ -245,9 +246,10 @@
 
   ​     
 
-  ​     
 
-[목차로 가기](#목차)
+[목차로 가기](#0-목차)
+
+---
 
 ### 점핏 공고     
 
@@ -279,7 +281,7 @@
   
   10. [뉴지스탁 ](https://www.jumpit.co.kr/company/952)    
 
-     
+  ​     
 
 
 - 백엔드     
@@ -310,9 +312,9 @@
 
   ​     
 
-  ​     
+[목차로 가기](#0-목차)
 
-[목차로 가기](#목차)
+---
 
 ### 자소설닷컴 공고     
 
@@ -370,9 +372,10 @@
 
   ​      
 
-  ​     
 
-[목차로 가기](#목차)
+[목차로 가기](#0-목차)
+
+---
 
 ### 사람인 공고     
 
@@ -430,9 +433,10 @@
 
   ​     
 
-  ​     
 
-[목차로 가기](#목차)
+[목차로 가기](#0-목차)
+
+---
 
 ### 잡코리아 공고     
 
@@ -490,9 +494,10 @@
 
   ​     
 
-  ​     
 
-[목차로 가기](#목차)
+[목차로 가기](#0-목차)
+
+---
 
 # 3. 공통 자격요건 및 우대사항     
 
@@ -504,15 +509,15 @@
 
 - 괄호 안은 해당 자격요건/우대사항이 공고에서 언급된 총 횟수     
 
-     
+  ​      
 
-- 언급 횟수가 적은 언어나 프레임워크는 적어놓지 않았습니다.     
+- 언급 횟수가 적은 언어나 프레임워크는 적어놓지 않았습니다.      
 
-     
+  ​     
 
-     
+  ​     
 
-     
+  ​      
 
 1. AWS, Docker등 클라우드 관련 경험 (35)
 2. Javascript/Typescript (32)
@@ -523,18 +528,18 @@
 7. Linux 계열 개발환경 관련 지식 (7)
 8. Kotlin (3), Go (3)     
 
-     
+   ​     
 
-     
+   ​      
 
 
 ![piechart](research.assets/piechart.png)     
 
 ​     
 
-​     
+[목차로 가기](#0-목차)
 
-[목차로 가기](#목차)
+---
 
 # 4. 총평     
 
@@ -545,11 +550,8 @@
 
   ​     
 
-  ​     
 
-  ​     
-
-[목차로 가기](#목차)
+[목차로 가기](#0-목차)
 
 ---
 
