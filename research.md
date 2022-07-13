@@ -102,7 +102,7 @@
 
 ​    
 
-​    
+- [(번외, 2022년 기준) 프로그래머스 각종 통계자료](https://career.programmers.co.kr/pages/2022-dev-survey)
 
 ​    
 
