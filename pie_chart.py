@@ -9,15 +9,14 @@ mpl.rcParams['axes.unicode_minus'] = False
 # 비율 리스트와 우대사항 종류 리스트 (나중에 높은 순서대로 정렬되게끔 개선해야 함, 임의로 입력해둔 상태)
 
 ratio = []
-labels = ['AWS, Docker 등\n클라우드 경험' , 'Javascript\nTypescript' , 'React\nVue' , 'Git\nGitHub' , 'Node.js' , 'Java' , 'Linux 계열 개발 지식' , 'Kotlin' , 'Go']
+labels = ['AWS, Docker 등\n클라우드 경험' , 'Javascript\nTypescript' , 'React\nVue' , 'Node.js' , 'Java' , 'Linux 계열 개발 지식' , 'Kotlin' , 'Go']
 
 # 우대사항 언급 순위 사전 (key 1 부터 횟수가 많은 순서대로 정렬되게끔 개선해야함, 임의로 입력해둔 상태)
 
 number_of_mentions =\
     {
-    1 : 35, 2 : 32, 3 : 28,
-    4 : 19, 5 : 15, 6 : 14,
-    7 : 7, 8 : 3, 9 : 3
+    1 : 35, 2 : 32, 3 : 28, 4 : 15,
+    5 : 14, 6 : 7, 7 : 3, 8 : 3
     }
     
 # 원형 차트 선언
